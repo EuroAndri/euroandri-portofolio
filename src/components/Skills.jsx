@@ -1,8 +1,8 @@
 const Skills = () => {
   const skills = [
     { name: 'HTML', stars: 3, icon: 'html.png' },
-    { name: 'CSS', stars: 4, icon: 'css.png' },
-    { name: 'JavaScript', stars: 1, icon: 'js.png' },
+    { name: 'CSS', stars: 2, icon: 'css.png' },
+    { name: 'Java', stars: 1, icon: 'java.png' },
     { name: 'React', stars: 2, icon: 'react.png' },
     { name: 'Tailwind', stars: 2, icon: 'tailwind.png' },
     { name: 'MySQL', stars: 3, icon: 'mysql.png' },
